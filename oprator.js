@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
 <body>
+  function multiplyNumbers(x,y){
+        return x*y;
+    }
+
+var z= multiplyNumbers(4,5);
 
 <h2>The + Operator</h2>
 
